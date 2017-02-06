@@ -1,0 +1,41 @@
+! special
+*.foreground:   #a7ccdc
+*.background:   #0c1214
+*.cursorColor:  #a7ccdc
+
+! black
+*.color0:       #151d20
+*.color8:       #76ab99
+
+! red
+*.color1:       #1c262a
+*.color9:       #6b9d8c
+
+! green
+*.color2:       #2a373c
+*.color10:      #47879c
+
+! yellow
+*.color3:       #3e4f56
+*.color11:      #b07b4e
+
+! blue
+*.color4:       #566d77
+*.color12:      #4c92a9
+
+! magenta
+*.color5:       #73919d
+*.color13:      #83b6a4
+
+! cyan
+*.color6:       #95baca
+*.color14:      #73a8bc
+
+! white
+*.color7:       #d4e5ed
+*.color15:      #e76bab
+
+
+! Applications
+#include ".Xresources.d/urxvt"
+#include ".Xresources.d/rofi"
